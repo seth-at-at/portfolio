@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I really wanted to learn the syntax of ruby going into this module but now I really want to get into TDD and get better at it.
 
 ## Rubric Scores
 
