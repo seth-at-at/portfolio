@@ -64,11 +64,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (Intro)
 
 ### Gear Up
-#### Vote Your Conscience
+#### Enigma DTR
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+* [https://docs.google.com/document/d/1-dRm4vXurdH9Btv7t04qwV1PHORmtBZPg3j86SVCmrI/edit#]()
 
-(Response)
+It was nice going over how we would be working together before we started the project, being able to see a plan helped my confidence in starting the project.
 
 ### Professional Development Workshops
 #### (Session Name)
