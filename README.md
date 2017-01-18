@@ -49,17 +49,17 @@ Character map should be pulled out to separate class,
 Application does not function
 
 ##### 1. Fundamental Ruby & Style
-* 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+###### 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 ##### 2. Enumerable & Collections
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+###### 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 ##### 3. Test-Driven Development
-* 2: Application makes some use of tests, but the coverage is insufficient
+###### 2: Application makes some use of tests, but the coverage is insufficient
 ##### 4. REPL Interface
-* 1: Application's REPL has enough problems as to make play difficult
+###### 1: Application's REPL has enough problems as to make play difficult
 ##### 5. Breaking Logic into Components
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+###### 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 ##### 6. Functional Expectations
-* 1: Application does not run, crashes on start.
+###### 1: Application does not run, crashes on start.
 
 Thanks for helping me aginst my feelings of failure and dread.  I feel as well that our project taught us a lot.
   I think we should have talked and detailed more of a DTR than we did.  Primarily in the aspects of the time frames we planned
