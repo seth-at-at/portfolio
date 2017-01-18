@@ -18,7 +18,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Work & Projects
 
-(Intro)
+In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
+
+In order to build good habits, we've broken the project up into small classes to demonstrate objects that have a single responsibility. As you work through each iteration, use TDD to drive out the desired behavior.
 
 #### Flashcards
 
@@ -48,17 +50,17 @@ Decrupt and Encrypt class has a lot of code repetition, would like to have seen 
 Character map should be pulled out to separate class,
 Application does not function
 
-##### 1. Fundamental Ruby & Style
+#### 1. Fundamental Ruby & Style
 ###### 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-##### 2. Enumerable & Collections
+#### 2. Enumerable & Collections
 ###### 1: Application demonstrates deficiencies with Enumerable and struggles with collections
-##### 3. Test-Driven Development
+#### 3. Test-Driven Development
 ###### 2: Application makes some use of tests, but the coverage is insufficient
-##### 4. REPL Interface
+#### 4. REPL Interface
 ###### 1: Application's REPL has enough problems as to make play difficult
-##### 5. Breaking Logic into Components
+#### 5. Breaking Logic into Components
 ###### 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-##### 6. Functional Expectations
+#### 6. Functional Expectations
 ###### 1: Application does not run, crashes on start.
 
 Thanks for helping me aginst my feelings of failure and dread.  I feel as well that our project taught us a lot.
