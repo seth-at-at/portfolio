@@ -37,7 +37,7 @@ If this were the second week in it would be all 3's and 4's, for right now becau
 
 Programs that I've created to accomplish different tasks
 
-#### (Enigma Project)
+#### Enigma Project
 
 * [GitHub URL](https://github.com/themenintights/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
